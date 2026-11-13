@@ -1,0 +1,310 @@
+﻿customer_id,name,age,gender,city,occupation,annual_income,join_date,segment
+C1219,Deepak  Mehta,50,Male,Hyderabad,Business Owner,509000,2020-09-10,Retail
+C1298,Divya Krishnan,23,Male,Ahmedabad,Shop Owner,415000,2017-07-03,Retail
+C1200,Ananya Singh,40,,Bengaluru,Business Owner,918000,2023-01-04,Retail
+C1295,Isha Krishnan,54,Male,Mumbai,,1458000,2020-11-30,Premium
+C1273,Isha Sharma,26,Male,Madurai,Software Engineer,479000,2015-11-09,Retail
+C1111,SURESH PILLAI,51,Male,Kolkata,Freelancer,437000,2015-03-27,Retail
+C1104,GOKUL SHETTY,28,Female,Kochi,Accountant,,2022-07-04,Retail
+C1141,Ananya Pillai,57,Female,Bengaluru,Doctor,526000,2024-09-24,Retail
+C1074,Vihaan Reddy,25,Female,Pune,Engineer,794000,2023-01-26,Retail
+C1047,Isha Gupta,41,Male,Mumbai,Doctor,930000,29/09/2022,Retail
+C1011,Ravi Gupta,58,Female,Kolkata,Shop Owner,572000,17/11/2020,Retail
+C1195,Varun Nair,40,Female,Chennai,Freelancer,486000,2022-07-26,Retail
+C1039,Lakshmi Reddy,56,Female,Ahmedabad,Consultant,736000,2022-02-26,Retail
+C1143,Pooja Mehta,49,Male,Delhi,Government Employee,362000,"Jan 04, 2022",Retail
+C1152,Aarav Bose,27,Female,Delhi,Consultant,1495000,2023-08-02,Premium
+C1251,Rahul Rao,65,Male,mumbai,Consultant,1183000,2020-07-20,Retail
+C1260,Anjali  Joshi,57,Male,Chennai,Doctor,1203000,2021-10-15,Premium
+C1210,Ananya Das,65,Male,Chennai,Consultant,267000,2019-03-25,Retail
+C1017,Karthik Joshi,32,Female,delhi,Nurse,308000,05/09/2018,Retail
+C1059,Vihaan Iyer,24,Male,Chennai,Engineer,,2023-02-26,Retail
+C1048,Varun Patel,45,Female,Delhi,Nurse,467000,2019-09-15,Retail
+C1169,Aditya Singh,27,Male,Bengaluru,Teacher,925000,16-Jan-2021,Retail
+C1133,Sowmya Joshi,62,,Kochi,Nurse,271000,2019-11-03,Retail
+C1281,Sanjay Kumar,24,Male,Hyderabad,Doctor,,16/09/2016,Retail
+C1235,Vikram Mehta,59,Female,Delhi,Consultant,796000,2023-10-30,Retail
+C1232,Ramesh Menon ,31,Male,Ahmedabad,Business Owner,1515000,2015-05-19,Premium
+C1268,Harish Nair,58,Male,Coimbatore,Doctor,375000,2024-01-30,Retail
+C1156,Revathi Rao,40,Female,Pune,Freelancer,1082000,2018-02-03,Retail
+C1228,Harish Joshi,61,Male,Chennai ,Doctor,1250000,13/08/2020,Premium
+C1102,Anjali Rao,48,Male,Delhi,Software Engineer,563000,2017-04-27,Retail
+C1277,Isha Singh,45,Male,Madurai,Business Owner,428000,2019-01-27,Retail
+C1067,Karthik Joshi,43,m,Coimbatore,,453000,2020-09-20,Retail
+C1103,Sneha Patel,28,Male,Coimbatore,Software Engineer,393000,21/04/2020,Retail
+C1015,Sanjay Menon,51,Female,Kochi,Freelancer,717000,2018-10-21,Retail
+C1080,Ravi Chandran,63,Male,Delhi,Government Employee,457000,"Sep 25, 2016",Retail
+C1026,Gokul Nair,31,Male,Coimbatore,Shop Owner,556000,2016-02-02,Retail
+C1075,Shalini Sharma,48,Male,Coimbatore,Doctor,1,2017-09-21,Retail
+C1078,Pooja Rao,24,Female,Delhi,Government Employee,361000,2018-07-20,Retail
+C1066,Deepak Joshi,,Male,Kochi,Nurse,792000,"Sep 10, 2022",Retail
+C1265,Madhavan Mehta,59,Female,bengaluru,Engineer,828000,2021-06-02,Retail
+C1032,Meena Shetty,35,Male,Kochi,Nurse,1591000,2016-12-11,Premium
+C1230,Isha Iyer,22,Male,New Delhi,Teacher,752000,2024-10-10,Retail
+C1081,Sowmya Rao,53,Female,Hyderabad,Freelancer,1006000,2017-04-10,Retail
+C1199,Vihaan Nair,35,Female,Coimbatore,Doctor,251000,2024-10-29,Retail
+C1083,Neha Krishnan,64,Male,Bengaluru,Student,,2018-05-18,Retail
+C1197,MEENA JOSHI,64,Male,Kolkata,Doctor,494000,11/12/2017,Retail
+C1068,Bharath Singh,59,Female,Hyderabad,Business Owner,340000,2022-05-10,Retail
+C1006,Sanjay Shetty,,Male,Delhi,Shop Owner,497000,2022-03-30,Retail
+C1158,MANOJ RAO,38,Male,Mumbai,Student,451000,"Dec 13, 2018",Retail
+C1206,Anil Reddy,56,M,Coimbatore,Teacher,964000,2024-06-26,Retail
+C1062,Revathi Pillai,54,Female,Mumbai,Doctor,776000,2015-09-09,Retail
+C1245,Gokul Verma,21,f,Kochi,Student,594000,15-Jul-2016,Retail
+C1167,Divya Krishnan,48,F,Mumbai,Freelancer,233000,2024-10-12,Retail
+C1128,Revathi Iyer,24,Female,Bangalore,Nurse,479000,2015-02-26,Retail
+C1131,Bharath Nair,53,Male,Chennai,Student,679000,2019-08-11,Retail
+C1124,GOKUL MENON,26,Female,bengaluru,Government Employee,,2019-07-14,Retail
+C1274,Pooja Joshi,26,Female,Hyderabad,Accountant,136000,2022-06-03,Retail
+C1119,Revathi Menon,31,Male,Mumbai,Shop Owner,218000,09-Mar-2023,Retail
+C1190,Kavya Patel,21,Female,Mumbai,Accountant,712000,2022-12-26,Retail
+C1182,Rohan Bose,49,female,bengaluru,,1895000,2023-03-16,Premium
+C1122,Karthik Verma,62,Female,mumbai,Teacher,676000,2022-10-13,Retail
+C1005,Rohan Sharma,,Male,Pune,,486000,2015-06-13,Retail
+C1115,Sanjay Nair,62,Female,Mumbai,Teacher,716000,21/08/2019,Retail
+C1266,Harish Nair,52,male,Delhi,Teacher,866000,2018-12-19,Retail
+C1106,Priya Naidu,46,,Chennai,Engineer,803000,2024-02-23,Retail
+C1225,Ravi Patel,49,Female,Bengaluru,Freelancer,706000,"Aug 27, 2021",Retail
+C1084,Divya Nair,64,Female,Pune,Student,241000,2018-11-09,Retail
+C1116,Sneha Bose,56,Female,Kochi,Accountant,535000,2021-01-12,Retail
+C1144,Anil Joshi,33,Female,mumbai,Teacher,1106000,2017-03-19,Retail
+C1285,Swathi Joshi,57,Male,Chennai,Doctor,512000,"May 04, 2017", Retail
+C1071,Sowmya Reddy,63,Female,Mumbai,Software Engineer,703000,2017-01-10,Retail
+C1007,Ramesh Chandran,35,Female,Bangalore,Engineer,336000,26-Oct-2019,Retail
+C1248,Ananya Menon,23,Female,Mumbai,Engineer,1820000,09/11/2016,Premium
+C1085,Lakshmi Kumar,28,Male,Kolkata,Student,548000,2022-01-26,Retail
+C1164,Manoj Kumar,63,Female,Madurai,Consultant,269000,2024-03-26,Retail
+C1110,Pooja Mehta,41,Male,Chennai,Teacher,719000,2021-04-28,Retail
+C1038,Nisha Pillai,34,Male,bengaluru,Software Engineer,468000,2023-09-07,Retail
+C1004,Karthik Rao,27,M,Chennai ,Teacher,1470000,2019-12-22, Premium
+C1246,Keerthi Bose,21,Female,Chennai,Shop Owner,771000,2018-08-27,Retail
+C1079,Suresh Joshi,44,Female,Coimbatore,Student,1385000,2016-10-14,Premium
+C1160,Keerthi Chandran,53,Male,Bengaluru,Nurse,273000,20/08/2017,Retail
+C1198,Sunita Bose,41,Male,Coimbatore,Government Employee,944000,2021-08-31,Retail
+C1249,Rahul Gupta,57,Female,Madurai,Doctor,272000,2016-09-12,Retail
+C1065,Deepak Verma,47,Male,Mumbai,Nurse,789000,2017-05-12,Retail
+C1212,Gokul Joshi,60,Female,Chennai ,Software Engineer,716000,2019-04-03,Retail
+C1051,Isha Nair,43,Female,Kolkata,Shop Owner,158000,2018-10-29,Retail
+C1024,Pooja Bose,39,Male,Coimbatore,Student,716000,06-Sep-2017,Retail
+C1044,Karthik Singh,42,Male,Mumbai,Student,384000,2016-09-21,RETAIL
+C1129,Nisha Iyer,42,Female,Hyderabad,Shop Owner,490000,2020-09-16,Retail
+C1025,Nisha Chandran,48,m,Mumbai,Freelancer,811000,2020-07-16,Retail
+C1234,Anil Joshi,27,Male,Chennai,Engineer,545000,17/01/2017,Retail
+C1204,Pooja Iyer,62,Male,delhi,Business Owner,1160000,19-Sep-2017,Retail
+C1187,Neha Gupta,999,Female,Madurai,Business Owner,526000,11-Apr-2022,Retail
+C1280,Bharath Bose,49,Male,Chennai ,Student,1226000,2016-12-21,Premium
+C1293,Neha Mehta,44,Female,Pune,Student,1885000,2021-04-04,Premium
+C1191,Aarav Mehta,25,Female,Bengaluru,Accountant,1554000,2024-08-18,Premium
+C1181,Isha Bose,60,Female,Bengaluru,Engineer,356000,02/08/2015,Retail
+C1214,Tarun Krishnan,33,Male,Mumbai,Software Engineer,652000,2017-06-27,Retail
+C1155,Divya Iyer,45,f,Madurai,Shop Owner,284000,2016-07-29,Retail
+C1041,Keerthi Menon,51,Female,Delhi,Freelancer,431000,31/08/2016,Retail
+C1272,Vikram Nair,30,M,Kolkata,Engineer,572000,06/03/2022,Retail
+C1046,Pooja Krishnan,35,Female,bengaluru,Government Employee,692000,2018-07-08,Retail
+C1282,anjali nair,59,Male,Kolkata,Government Employee,690000,27-Oct-2016,Retail
+C1016,Sneha Reddy,49,Female,Mumbai,Doctor,735000,14/12/2016,Retail
+C1215,Vihaan Naidu,56,Male,Madurai,Doctor,690000,2022-08-18,Retail
+C1154,DIVYA JOSHI,63,Female,chennai,Consultant,720000,2023-10-02,Retail
+C1296,Shalini Mehta,48,,Bengaluru,Student,714000,2017-09-11,Retail
+C1147,Aditya Singh,44,Female,Bangalore,Consultant,331000,04/09/2015,Retail
+C1300,Swathi Verma,48,Female,Delhi,Freelancer,751000,2016-04-30,Retail
+C1127,Vikram Singh,-1,Female,Bengaluru,Business Owner,,27/12/2021,Retail
+C1178,Aditya Shetty,26,Male,Coimbatore,Software Engineer,739000,2024-05-02,Retail
+C1109,Karthik Sharma,42,Female,Bengaluru,Doctor,495000,2021-03-07,Retail
+C1104,Gokul Shetty,28,Female,Kochi,Accountant,,2022-07-04,Retail
+C1137,Anil Shetty,53,Male,Bengaluru,Doctor,613000,2022-07-05,Retail
+C1058,Ravi Joshi,49,Female,Delhi,Student,1138000,2020-05-30,Retail
+C1163,SOWMYA REDDY,63,Female,Kochi,Software Engineer,691000,09-Mar-2021,Retail
+C1076,Tarun Patel,53,Male,Mumbai,Engineer,1297000,2017-05-14,Premium
+C1211,Keerthi Rao,22,male,Hyderabad,Shop Owner,589000,2024-09-11,Retail
+C1031,Madhavan Naidu,54,Male,Delhi,Freelancer,1570000,2017-10-12,Premium
+C1294,Nisha Sharma,65,Male,Pune,Doctor,624000,2017-08-13,Retail
+C1288,Aarav Gupta,29,Male,Chennai,Nurse,770000,2022-10-30,Retail
+C1043,Swathi Naidu,59,Female,Bengaluru,Nurse,418000,23/03/2023,Retail
+C1239,Isha Kumar,21,FEMALE,Bengaluru,Software Engineer,539000,2022-07-20,Retail
+C1140,Arjun Sharma,61,Male,Pune,Business Owner,870000,2023-03-25,Retail
+C1123,Swathi Sharma,59,Male,Madurai,Software Engineer,307000,12/07/2018,Retail
+C1135,Naveen Joshi,30,Female,Delhi,Student,334000,2019-06-10,Retail
+C1244,Lakshmi Das,22,Male,Delhi,Freelancer,827000,2022-05-07,Retail
+C1099,Lakshmi Iyer,23,Female,delhi,Consultant,889000,2023-06-18,Retail
+C1291,Karthik Krishnan,,Male,mumbai,Government Employee,1243000,2020-04-19,Premium
+C1095,Manoj Singh,25,Male,Mumbai,Student,1425000,2015-02-21,Premium
+C1279,Ramesh Bose,45,Male,Kolkata,Nurse,297000,2016-04-15,Retail
+C1034,Madhavan Gupta,38,Male,Hyderabad,Accountant,375000,2017-11-12,Retail
+C1090,Madhavan Das,56,F,Chennai,Student,694000,2018-02-01,Retail  
+C1253,PRIYA PILLAI,64,Male,Mumbai,Freelancer,1820000,2019-04-13,Premium
+C1035,Karthik Pillai,29,Male,Madurai,Government Employee,1254000,2018-03-24,Premium
+C1073,Sowmya Bose,49,Male,bengaluru,Nurse,605000,2019-04-28,Retail
+C1283,Varun Reddy,41,,Chennai,Nurse,1910000,2018-12-20,Premium
+C1216,Karthik Naidu,58,Female,Chennai,Software Engineer,1247000,2022-08-18,Premium
+C1247,Gokul Verma,28,Female,Pune,Shop Owner,484000,2017-04-29,Retail
+C1292,Rahul Sharma,52,Male,Pune,Doctor,564000,2022-11-23,Retail
+C1112,Sunita Reddy,44,Male,Kolkata,Engineer,604000,2023-07-12,Retail
+C1013,Bharath Verma,56,Female,Mumbai,Business Owner,407000,10/06/2018,Retail
+C1088,Nisha Pillai,47,M,Madurai,Shop Owner,1274000,2022-05-24,Premium
+C1162,Naveen Mehta,45,Female,Coimbatore,Nurse,968000,2020-12-17,Retail
+C1097,Naveen Gupta,53,Male,Bengaluru,Shop Owner,984000,2021-11-22,Retail
+C1150,Ananya Kumar,28,Female,Chennai,Government Employee,730000,13-Oct-2024,Retail
+C1042,Anil Krishnan,62,Female,Chennai,Business Owner,426000,2021-12-18,Retail
+C1064,Karthik Chandran,30,m,Hyderabad,Business Owner,447000,2019-09-25,Retail
+C1238,Swathi Chandran,29,Female,Mumbai,Engineer,,19/12/2022,Retail
+C1014,Neha Krishnan,38,Male,mumbai,Business Owner,643000,2016-04-16,Retail
+C1237,Pooja Pillai,57,Male,Bengaluru,Government Employee,1078000,2022-03-03,Retail
+C1018,Varun Sharma,32,Female,mumbai,Consultant,915000,2021-03-01,Retail
+C1231,Sunita Iyer,32,Male,Madurai,Software Engineer,234000,07/09/2023,Retail
+C1176,Sanjay Kumar,63,Male,Delhi,Government Employee,536000,28-Jul-2015,Retail
+C1255,Priya Reddy,33,Male,Pune,Shop Owner,970000,2022-04-15,Retail
+C1052,Shalini Kumar,50,f,Bengaluru,Shop Owner,299000,2017-09-09,Retail
+C1086,Rahul Sharma,57,Male,Hyderabad,Shop Owner,273000,15-May-2017,Retail
+C1125,Bharath Kumar,56,Female,Kolkata,Accountant,1626000,2022-06-23,Premium
+C1089,Sunita Nair,41,Male,Chennai,Government Employee,400000,2016-09-19,Retail
+C1165,Suresh Joshi,37,Male,Madurai,Teacher,561000,2019-04-01,Retail
+C1263,Divya Singh,26,Female,Chennai,Nurse,901000,15/08/2016,Retail
+C1205,Keerthi Kumar,54,Female,Madurai,Business Owner,1113000,2018-05-14,Retail
+C1240,Revathi Iyer,61,Female,Ahmedabad,Teacher,467000,16-Nov-2015,Retail
+C1087,Gokul Naidu,39,Female,Kolkata,Shop Owner,,13-Dec-2023,Retail
+C1180,Karthik Naidu ,59,Female,Kolkata,Freelancer,458000,2018-12-18,Retail
+C1117,aarav chandran,44,Female,Coimbatore,Government Employee,1084000,2019-05-04,retail
+C1146,shalini patel,37,Male,Coimbatore,Engineer,501000,"Oct 19, 2022",Retail
+C1159,Ramesh Naidu,26,Female,Delhi,Software Engineer,590000,14-May-2022,Retail
+C1208, Aarav Rao,25,Male,Chennai,Teacher,903000,2017-08-08,Retail
+C1227,Anjali  Kumar,51,,Chennai,Accountant,426000,2020-08-16,Retail
+C1059,Vihaan Iyer,24,Male,Chennai,Engineer,,2023-02-26,Retail
+C1188,Varun Sharma,51,Female,Mumbai,Engineer,791000,2016-09-22,Retail
+C1171,Swathi Patel,50,F,Mumbai,Shop Owner,733000,12/02/2017,Retail
+C1126,Vikram Pillai,26,Male,Coimbatore,Student,,2015-10-19,Retail
+C1256,Sowmya Naidu,59,Female,Bengaluru,,605000,2023-06-23,Retail
+C1202,Divya Shetty,34,Female,Delhi,Teacher,721000,25-Apr-2017,Retail
+C1072,Ananya Menon,,Male,Hyderabad,Freelancer,401000,2019-05-30,Retail  
+C1223,Ravi Rao,27,F,mumbai,Accountant,1115000,2023-04-10,Retail
+C1261,Meena Iyer,64,Female,Pune,Student,653000,27/04/2016,Retail
+C1117,AARAV CHANDRAN,44,Female,Coimbatore,Government Employee,1084000,2019-05-04,retail
+C1267,Anil Patel,57,Female,Pune,Accountant,521000,2017-05-23,Retail
+C1082,Neha Menon,27,Female,Hyderabad,Doctor,617000,"Aug 07, 2019",Retail
+C1290,VARUN IYER,33,Male,Mumbai,Business Owner,490000,2023-12-05,Retail
+C1096,Nisha Verma,32,Male,Coimbatore,Engineer,469000,26/04/2019,Retail
+C1134,Pooja Singh,55,Male,Chennai,Teacher,429000,2019-01-03,Retail
+C1201,Sowmya Chandran,21,Male,Hyderabad,Shop Owner,493000,18/02/2019,Retail
+C1218,Pooja Iyer,25,Female,Delhi,Government Employee,142000,2022-08-04,Retail
+C1297,Manoj Shetty,43,Male,Delhi,Nurse,966000,01/03/2016,Retail
+C1138,Neha Pillai,36,Male,Bombay,Shop Owner,210000,2020-06-06,Retail
+C1101,Meena Mehta,44,Male,Delhi,,582000,2023-11-10,Retail
+C1222,Suresh Pillai,50,,Mumbai,Software Engineer,625000,2023-03-19,Retail
+C1226,Aditya Mehta,25,Male,Hyderabad,Engineer,377000,2015-01-16,Retail
+C1289,Keerthi Das,21,Male,Chennai,Nurse,566000,2017-01-30,Retail
+C1196,Ramesh Nair,34,Female,Delhi,Engineer,525000,2016-05-18,Retail
+C1284,Manoj Reddy,27,Male,Kochi,Accountant,1274000,2019-07-25,Premium
+C1009,Ravi Iyer,64,Female,Bombay,Shop Owner,,2020-03-27,Retail
+C1108,Ramesh Patel,46,Male,Coimbatore,Business Owner,1232000,2019-11-24,Premium
+C1054,Bharath Rao,57,Male,Hyderabad,Consultant,193000,2018-01-12,RETAIL
+C1028,Anjali Kumar,37,Female,Delhi,Student,988000,2024-05-27,Retail
+C1221,Aditya Singh,22,MALE,New Delhi,Teacher,248000,2022-04-04,Retail
+C1061,Pooja Rao,28,Male,Mumbai,Engineer,380000,2016-06-19,Retail
+C1093,Anjali Menon,150,Female,Chennai,Shop Owner,879000,05/08/2018,Retail
+C1033,Neha Singh,40,FEMALE,Chennai,Consultant,323000,2018-11-20,Retail
+C1287,Ananya Kumar,23,,Bengaluru,Nurse,507000,"Nov 21, 2016",Retail
+C1186,Lakshmi Rao,,Male,Delhi,Engineer,565000,2016-11-20,Retail
+C1136,Ananya Kumar,51,FEMALE,Bengaluru,Engineer,368000,2020-08-02,Retail
+C1023,Arjun Shetty,28,Male,Hyderabad,Consultant,509000,15/03/2022,Retail
+C1063,Tarun Joshi,22,Male,Madurai,Accountant,859000,2019-02-27,Retail
+C1299,Harish Chandran,24,Female,Coimbatore,Shop Owner,,17/09/2017,Retail
+C1258,aditya iyer,23,Female,Bengaluru,Doctor,537000,25/04/2021,Retail
+C1192,Keerthi Reddy,41,Female,Coimbatore,Shop Owner,753000,2017-08-08,Retail
+C1019,Tarun Krishnan,23,Male,Bombay,Consultant,400000,2016-02-12,Retail
+C1269,Sneha Iyer,41,Female,Mumbai,Teacher,386000,2015-09-14,Retail
+C1053,Bharath Chandran,30,Female,Kochi,Business Owner,241000,2017-06-11,Retail
+C1174,sowmya mehta,53,m,Hyderabad,Government Employee,829000,02-Dec-2016,Retail
+C1036,Bharath Nair,51,Male,Bengaluru,Freelancer,351000,2020-03-16,Retail
+C1194,Arjun Krishnan,58,Male,Chennai,Freelancer,463000,25/12/2023,Retail
+C1179,Anil Bose,33,f,Hyderabad,Accountant,743000,12-Jul-2022,Retail
+C1168,Sneha Krishnan,42,Male,Mumbai,Freelancer,348000,2020-06-23,Retail
+C1121,Suresh Joshi,27,Male,Kolkata,Nurse,615000,2019-12-17,Retail
+C1145,Sanjay Pillai,56,Male,Kolkata,,148000,2016-12-07,Retail
+C1020,Ananya Verma,27,Male,Hyderabad,Freelancer,819000,08/05/2022,Retail
+C1262,Vikram Krishnan,62,Female,Hyderabad,Engineer,378000,2024-08-31,Retail
+C1045,Gokul Krishnan,55,Female,Mumbai,Accountant,1868000,2022-05-22,premium
+C1069,Naveen Kumar,62,Male,Hyderabad,Nurse,330000,2016-01-27,Retail
+C1077,Madhavan Patel,47,Female,Hyderabad,Teacher,1130000,2018-05-04,Retail
+C1209,Aditya Iyer,38,Female,Chennai,Shop Owner,731000,2015-01-20,Retail
+C1113,Sunita Singh,53,Female,Ahmedabad,Student,442000,"Feb 17, 2021",Retail
+C1122,Karthik Verma,62,Female,mumbai,Teacher,676000,2022-10-13,Retail
+C1213,Neha Nair,51,Male,Mumbai,Consultant,788000,2021-11-17,Retail
+C1012,Vikram Mehta,41,Male,Delhi,Freelancer,268000,30-Apr-2022,Retail
+C1056,Ananya Chandran,44,Female,delhi,Government Employee,,02/04/2016,Retail
+C1217,Isha Iyer,22,Female,Madurai,Teacher,1102000,2020-12-25,Retail
+C1189,Ramesh Naidu,,f,Kochi,Nurse,313000,2017-03-21,Retail
+C1271,Sunita Sharma,41,Male,Kochi,Software Engineer,672000,2024-10-06,Retail
+C1010,Isha Pillai,59,female,Chennai,Shop Owner,362000,2017-02-13,Retail
+C1252,Aditya Bose,57,Male,Chennai ,Engineer,390000,2019-01-12,Retail
+C1264,Madhavan Iyer,55,Female,Madurai,Teacher,946000,2019-01-19,Retail
+C1030,Ramesh Rao,37,Male,Coimbatore,Shop Owner,868000,2016-07-08,Retail
+C1040,Deepak Rao,63,Female,Hyderabad,Accountant,567000,2022-06-24,RETAIL
+C1105,Priya Chandran,26,Male,delhi,Government Employee,826000,01-Aug-2015,Retail
+C1057,Deepak Pillai,55,Male,Pune,Government Employee,584000,2021-12-14,Retail
+C1270,Sanjay Kumar,22,Female,Chennai,Doctor,263000,2017-06-02,Retail
+C1022,Sunita Gupta,42,Male,Hyderabad,Nurse,300000,19/10/2023,Retail
+C1242,Priya Chandran,50,Female,Kolkata,Accountant,845000,2018-11-20,Retail
+C1092,Anjali Rao,56,Female,Ahmedabad,Accountant,436000,2017-09-06,Retail
+C1229,Suresh Verma,59,Male,Hyderabad,Software Engineer,455000,2018-07-29,Retail
+C1241,Ananya Krishnan,34,M,Hyderabad,Government Employee,,2016-05-19,RETAIL
+C1183,Rahul Das,26,Male,chennai,Shop Owner,703000,12/01/2015,Retail
+C1244,Lakshmi Das,22,Male,Delhi,Freelancer,827000,2022-05-07,Retail
+C1060,Manoj Iyer,33,MALE,Madurai,Accountant,883000,2021-12-07,RETAIL
+C1285,Swathi Joshi,57,Male,Chennai,Doctor,512000,"May 04, 2017", Retail
+C1173,Madhavan Patel,0,Female,Hyderabad,Shop Owner,754000,2017-03-14,Retail
+C1233,Aarav Shetty,41,Male,Kolkata,Shop Owner,807000,2017-01-20,Retail
+C1091,Keerthi Nair,65,Female,Mumbai,Accountant,415000,21-Oct-2016,retail
+C1037,Sneha Iyer,31,M,Ahmedabad,Consultant,308000,10/11/2016,Retail
+C1157,Rahul Patel,54,Female,Chennai ,Engineer,408000,2016-04-05,Retail
+C1003,Pooja Bose,54,Female,Delhi,Doctor,2040000,2018-08-19,Premium
+C1243,Sneha Reddy,61,M,Ahmedabad,,678000,2018-04-30,Retail
+C1049,Manoj Rao,64,Male,Kolkata,Business Owner,544000,21/11/2022,Retail
+C1142,Revathi Pillai,55,Male,Madurai,Student,172000,2016-01-26,Retail
+C1224,Divya Shetty,50,Female,Kochi,Student,346000,2017-02-04,Retail
+C1184,Sneha Singh,26,Male,Kolkata,Engineer,414000,2021-09-13,Retail
+C1161,Divya Iyer,28,Female,Kolkata,Software Engineer,669000,2023-02-01,Retail
+C1220,Karthik Gupta,,male,delhi,Engineer,550000,20/09/2018,Retail
+C1100,Lakshmi Shetty,25,Male,Madurai,Doctor,477000,2018-08-19,Retail
+C1236,Ramesh Krishnan,55,Male,Kochi,Consultant,295000,2020-02-07,Retail
+C1118,Anjali Naidu,43,Male,Ahmedabad,Nurse,201000,2023-10-02,Retail
+C1002,Revathi Menon,56,female,Bengaluru,Freelancer,388000,2022-12-27, Retail
+C1114,Shalini Joshi,55,Female,Hyderabad,Teacher,99999999,2024-10-27,Premium
+C1286,Keerthi Menon,54,Female,Pune,Business Owner,443000,2017-11-05,Retail
+C1175,vikram nair,59,Female,Delhi,Doctor,2316000,06/05/2022,Premium
+C1254,Sanjay Reddy,31,,New Delhi,Government Employee,982000,2019-09-19,Retail
+C1276,Shalini Gupta,43,Male,Bangalore,Nurse,1045000,2015-12-18,Retail 
+C1185,Aarav Chandran,42,Male,Ahmedabad,Freelancer,944000,2021-08-07,Retail
+C1166,SANJAY GUPTA,56,Female,Madurai,Teacher,865000,2018-05-22,Retail
+C1275,Ravi Rao,52,Male,Pune,Freelancer,320000,2024-07-14,Retail
+C1193,Vihaan Iyer,53,Male,delhi,Doctor,494000,2024-01-23,Retail
+C1001,Karthik Chandran,48,male,Bengaluru,Business Owner,364000,09/03/2021,Retail
+C1055,Sneha Naidu,45,Female,Mumbai,Freelancer,,2018-10-05,Retail
+C1029,Sanjay Nair,43,FEMALE,Ahmedabad,Software Engineer,525000,22-Nov-2022,Retail
+C1207,Ananya Iyer,45,Female,Ahmedabad,Shop Owner,280000,10/07/2020,Retail 
+C1050,Swathi Iyer,59,Male,Pune,Business Owner,417000,2016-06-13,Retail
+C1021, Anil Chandran,40,Male,Delhi,Engineer,594000,17-Mar-2017,Retail
+C1177,ananya menon,40,female,delhi,Doctor,400000,2021-03-10,Retail
+C1034,Madhavan Gupta,38,Male,Hyderabad,Accountant,375000,2017-11-12,Retail
+C1172,Naveen Das,65,Male,Coimbatore,Shop Owner,1513000,2016-09-01,Premium
+C1008,Sunita Chandran,44,Male,Kochi,Teacher,230000,2019-07-10,Retail
+C1218,POOJA IYER,25,Female,Delhi,Government Employee,142000,2022-08-04,Retail
+C1107,Bharath Menon,21,Male,Kolkata,Teacher,1287000,2018-08-03,Premium
+C1098,Aditya Sharma,47,Male,Pune,Business Owner,627000,24-Dec-2017,Retail
+C1111,SURESH PILLAI,51,Male,Kolkata,Freelancer,437000,2015-03-27,Retail
+C1070,Lakshmi Menon,26,Female,Bengaluru,Nurse,623000,2023-01-06,Retail
+C1130,Vikram Joshi,,m,Hyderabad,Nurse,205000,11-Sep-2019,Retail
+C1259,Varun Sharma,51,Male,Kolkata,Student,725000,"Apr 06, 2022",Retail
+C1151,Meena Krishnan,64,Male,Chennai ,Consultant,792000,27/07/2021,Retail
+C1027,Meena Pillai,36,Male,Hyderabad,Shop Owner,1284000,25-Dec-2015,Premium
+C1094,Anil Gupta,63,Female,Chennai,Doctor,585000,2016-04-15,Retail
+C1149,Isha Menon,35,,Delhi,Teacher,426000,2022-07-30,Retail
+C1120,DIVYA VERMA,47,Female,Delhi,Doctor,889000,2023-12-08,Retail
+C1139, Sneha Chandran,54,Male,Delhi,Government Employee,811000,2021-04-26,Retail
+C1170,Rohan Shetty,37,Male,Hyderabad,Nurse,683000,2017-11-30,Retail
+C1203,Anjali Das,44,Female,Delhi,Consultant,339000,11/06/2024,Retail
+C1148,Sanjay Das,35,Female,Delhi,Doctor,892000,04-May-2023,Retail
+C1278,Sowmya Das,54,Male,Bengaluru,Teacher,715000,2019-08-09,Retail
+C1257,Isha Krishnan,32,F,Kochi,Accountant,,2020-03-05,Retail
+C1132,Ananya Mehta,39,Female,Hyderabad,Software Engineer,911000,2019-11-11,Retail
+C1250,Keerthi Menon,48,Male,Bengaluru,Consultant,1121000,2016-12-03,Retail
+C1153,Sanjay Iyer,24,Female,Mumbai,Doctor,539000,2016-03-01,Retail

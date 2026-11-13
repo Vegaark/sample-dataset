@@ -1,0 +1,436 @@
+﻿account_id,customer_id,account_type,opening_date,branch,credit_limit
+ACC5241,C1163,Credit Card,2021-03-28,Kochi - Central,50000.0
+ACC5354,C1244,Savings,09-May-2022,Delhi - South,
+ACC5391,C1271,SAVINGS,2024-11-15,Kochi - Main,
+ACC5022,C1016,Credit Card,19/12/2016,Mumbai - Central,200000.0
+ACC5375,C1258,Credit Card,2021-05-31,Bengaluru - Central,-50000.0
+ACC5245,C1167,Savings,2024-10-15,Mumbai - North,
+ACC5358,C1247,Savings,2017-05-07,Pune - North,
+ACC5044,C1031,Savings,2017-10-23,Delhi - Main,
+ACC5243,C1165,Savings,2019-04-23,Madurai - Central,
+ACC5308,C1211,Savings,08-Nov-2024,Hyderabad - North,
+ACC5225,C1154,Current,2023-11-23,Chennai - Central,
+ACC5380,C1261,Credit card,2016-05-19,Pune - Central,300000.0
+ACC5408,C1284,Savings,2019-08-20,Kochi - Central,
+ACC5360,C1249,Savings,15/10/2016,Madurai - North,
+ACC5152,C1106,Savings,2024-02-28,Chennai - South,
+ACC5133,C1095,Savings,2015-03-02,Mumbai - South,
+ACC5202,C1140,Savings,2023-03-30,Pune - South,
+ACC5213,C1147,Current,"Oct 07, 2015",Bengaluru - Main,
+ACC5116,C1083,Savings,2018-06-05,Bengaluru - South,
+ACC5351,C1242,Savings,2019-01-13,Kolkata - Main,
+ACC5150,C1105,Savings,2015-09-07,Delhi - North,
+ACC5185,C1129,Credit Card,2020-10-01,Hyderabad - Main,300000.0
+ACC5404,C1281,Savings,2016-10-19,Hyderabad - Main,
+ACC5067,C1047,Savings,2022-11-25,Mumbai - North,
+ACC5247,C1168,Current,2020-07-26,Mumbai - Main,
+ACC5423,C1296,savings,2017-09-25,Bengaluru - Main,
+ACC5214,C1148,Savings,2023-05-22,Delhi - Central,
+ACC5330,C1229,Savings,2018-08-20,Hyderabad - Central,
+ACC5035,C1024,Credit Card,2017-10-23,Coimbatore - Main,300000.0
+ACC5223,C1154,Savings,2023-11-14,Chennai - South,
+ACC5282,C1193,Credit Card,2024-02-06,Delhi - Central,
+ACC5396,C1275,Savings,2024-08-25,Pune - Central,
+ACC5099,C1071,Savings,2017-01-19,Mumbai - North,
+ACC5274,C1189,Savings,2017-03-29,Kochi - Main,
+ACC5287,C1197,Savings,2018-01-25,Kolkata - Central,
+ACC5413,C1288,Credit Card,2022-11-13,Chennai - North,200000.0
+ACC5048,C1032,Credit Card,2017-01-14,Kochi - Main,300000.0
+ACC5383,C1264,Savings,2019-01-20,Madurai - South,
+ACC5427,C1297,Current,01-Apr-2016,Delhi  -  North,
+ACC5338,C1234,Credit Card,2017-02-24,Chennai - North,300000.0
+ACC5091,C1067,Savings,2020-10-09,Coimbatore - North,
+ACC5199,C1138,Savings,14/06/2020,Mumbai - Main,
+ACC5053,C1037,Savings,2016-12-21,Ahmedabad - Central,
+ACC5123,C1087,Savings,2024-01-16,Kolkata - North,
+ACC5384,C1264,Credit Card,01-Feb-2019,Madurai - South,200000.0
+ACC5237,C1162,Savings,18/01/2021,Coimbatore - Central,
+ACC5250,C1171,Savings,20/03/2017,Mumbai - North,
+ACC5010,C1007,Savings,2019-10-29,Bengaluru - South,
+ACC5100,C1072,Savings,2019-06-25,Hyderabad - North,
+ACC5051,C1035,Savings,2018-03-28,Madurai - Main,
+ACC5341,C1236,Savings,2020-03-07,kochi - south,
+ACC5162,C1113,Savings,2021-04-01,Ahmedabad - South,
+ACC5072,C1052,Savings,2017-10-17,Bengaluru - Central,
+ACC5196,C1136,Savings,2020-09-16,Bengaluru - Central,
+ACC5283,C1194,Savings,16/02/2024,Chennai - Central,
+ACC5281,C1193,Savings,2024-01-24,Delhi - North,
+ACC5054,C1037,Credit Card,2017-01-06, Ahmedabad - North,200000.0
+ACC5076,C1054,Savings,09/03/2018,Hyderabad - Main,
+ACC5431,C1300,Savings,2016-05-23,Delhi - North,
+ACC5219,C1151,Savings,2021-08-26,Chennai - Central,
+ACC5154,C1107,Savings,2018-08-17,Kolkata  -  South,
+ACC5139,C1099,Current,2023-07-29,Delhi - Central,
+ACC5361,C1250,Savings,2017-01-17,Bengaluru - South,
+ACC5050,C1034,Savings,2017-12-06,Hyderabad  -  Central,
+ACC5141,C1100,Credit card,26/08/2018,Madurai - Main,200000.0
+ACC5118,C1084,Savings,2018-12-21,Pune - South,
+ACC5394,C1273,Savings,2015-12-10,Madurai - North,
+ACC5158,C1109,Credit Card,08/04/2021,Bengaluru - North,50000.0
+ACC5415,C1289,Credit Card,2017-02-22,Chennai - Central,50000.0
+ACC5063,C1044,Savings,2016-09-26,Mumbai - South,
+ACC5231,C1159,Savings,2022-06-25,Delhi - Main,
+ACC5128,C1091,Savings,21/11/2016,Mumbai - North,
+ACC5332,C1229,Current,22/09/2018,Hyderabad - South,
+ACC5224,C1154,Credit Card,2023-11-16,Chennai - Central,100000.0
+ACC5153,C1106,Current,2024-04-13,Chennai - South,
+ACC5019,C1014,Savings,2016-05-09,Mumbai - Central,
+ACC5303,C1206,Savings,2024-08-06,Coimbatore - South,
+ACC5252,C1172,Credit Card,2016-09-13,Coimbatore - Main,300000.0
+ACC5142,C1101,Savings,2023-11-27,Delhi - North,
+ACC5235,C1160,Credit Card,2017-09-13,Bengaluru - South,100000.0
+ACC5432,C1300,current,2016-05-17,Delhi - Main,
+ACC5388,C1268,Savings,2024-02-20,Coimbatore - South,
+ACC5001,C1001,Savings,2021-05-03,Bengaluru - Main,
+ACC5061,C1042,Credit Card,2022-01-20,Chennai - North,200000.0
+ACC5262,C1180,Saving,2019-01-15,Kolkata  -  Main,
+ACC5345,C1238,Savings,2023-01-26,Mumbai - South,
+ACC5034,C1024,Savings,2017-09-30,Coimbatore - South,
+ACC5102,C1073,Savings,2019-05-18,Bengaluru - North,
+ACC5109,C1078,savings,2018-08-03,Delhi - North,
+ACC5323,C1223,Savings,12/05/2023,Mumbai - Main,
+ACC5124,C1087,Credit Card,2023-12-17,Kolkata - North,200000.0
+ACC5322,C1222,Savings,2023-04-26,Mumbai - South,
+ACC5108,C1077,Credit Card,2018-06-15,Hyderabad - Central,50000.0
+ACC5220,C1151,credit card,2021-08-03,Chennai - Central,300000.0
+ACC5278,C1191,Current,2024-08-18,BENGALURU - NORTH,
+ACC5056,C1038,Credit Card,2023-09-25,Bengaluru - South,50000.0
+ACC5222,C1153,Savings,2016-03-30,Mumbai - Central,
+ACC5337,C1234,Savings,2017-03-13,Chennai - South,
+ACC5343,C1237,credit card,2022-04-11,Bengaluru  -  South,50000.0
+ACC5210,C1146,Savings,2022-12-07,Coimbatore - Main,
+ACC5289,C1199,Savings,2024-12-09,Coimbatore - Central,
+ACC5348,C1240,Savings,2016-01-14,Ahmedabad - Main,
+ACC5140,C1100,Savings,2018-08-30,Madurai - North,
+ACC5049,C1033,Savings,2018-12-08,Chennai - North,
+ACC5260,C1178,Current,2024-05-02,Coimbatore - South,
+ACC5230,C1158,Savings,2018-12-24,mumbai - central,
+ACC5043,C1030,Savings,2016-08-26,Coimbatore - Main,
+ACC5027,C1020,Credit Card,2022-06-19,Hyderabad - Central,200000.0
+ACC5291,C1200,credit card,2023-02-21,Bengaluru - South,50000.0
+ACC5057,C1039,Savings,2022-03-04,AHMEDABAD - CENTRAL,
+ACC5407,C1283,Credit Card,2019-01-07,Chennai - North,200000.0
+ACC5089,C1065,Savings,2017-06-14,Mumbai - Central,
+ACC5284,C1195,Savings,2022-08-19,Chennai - Main,
+ACC5352,C1242,Credit Card,2019-01-13,Kolkata - South,300000.0
+ACC5368,C1254,Credit Card,2019-09-23,Delhi - South,100000.0
+ACC5300,C1204,Current,24/10/2017, Delhi - Main,
+ACC5013,C1010,Savings,25/03/2017,Chennai - North,
+ACC5393,C1272,Credit Card,2022-04-07,Kolkata - North,200000.0
+ACC5130,C1092,Credit card,"Sep 17, 2017",Ahmedabad - South,300000.0
+ACC5238,C1162,credit card,2021-01-08,Coimbatore - North,100000.0
+ACC5293,C1201,Credit Card,2019-04-09,Hyderabad - Main,50000.0
+ACC5428,C1298,Savings,2017-08-12,Ahmedabad - Central,
+ACC5387,C1267,Savings,2017-06-14,Pune - South,
+ACC5077,C1054,Credit Card,2018-01-31,Hyderabad  -  Central,200000.0
+ACC5399,C1277,Savings,31-Jan-2019,Madurai - South,
+ACC5090,C1066,Savings,2022-10-04,Kochi - Central,
+ACC5248,C1169,Savings,2021-01-23,Bengaluru - Main,
+ACC5151,C1105,Current,2015-09-15,Delhi - Central,
+ACC5249,C1170,Savings,2018-01-12,Hyderabad - South,
+ACC5025,C1019,Savings,03-Mar-2016,Mumbai - South,
+ACC5285,C1196,Savings,2016-06-04,Delhi - Central,
+ACC5294,C1202,Savings,2017-05-01,Delhi - Main,
+ACC5344,C1237,Current,2022-04-03,Bengaluru - South,
+ACC5169,C1118,Savings,2023-11-02,Ahmedabad - North,
+ACC5007,C1005,Credit Card,2015-07-01,Pune - Main,200000.0
+ACC5011,C1008,Savings,2019-07-12,Kochi - South,
+ACC5156,C1108,Savings,10/01/2020,Coimbatore - South,
+ACC5171,C1119,Credit Card,2023-03-21,Mumbai - North,200000.0
+ACC5082,C1058,Credit Card,2020-07-07,Delhi - North,300000.0
+ACC5297,C1203,Savings,2024-06-13,Delhi - South,
+ACC5187,C1130,Credit Card,2019-09-12,Hyderabad - Central,100000.0
+ACC5254,C1174,Savings,2016-12-20,HYDERABAD - MAIN,
+ACC5228,C1156,savings,2018-03-30,Pune - Central,
+ACC5177,C1124,Savings,2019-07-16,Bengaluru - South,
+ACC5346,C1239,Savings,2022-07-27,Bengaluru - Central,
+ACC5227,C1155,Current,2016-08-04,Madurai - North,
+ACC5084,C1060,savings,14-Jan-2022,Madurai - Central,
+ACC5093,C1068,savings,2022-07-08,Hyderabad - North,
+ACC5046,C1031,Current,2017-12-10,Delhi - Main,
+ACC5273,C1188,Savings,26/10/2016,Mumbai - Central,
+ACC5047,C1032,Savings,"Dec 15, 2016",Kochi - North,
+ACC5310,C1212,savings,2019-05-28,Chennai - South,
+ACC5313,C1214,Savings,2017-07-12,Mumbai - South,
+ACC5016,C1012,Savings,2022-05-14,Delhi - Central,
+ACC5364,C1252,Savings,2019-02-08,Chennai - North,
+ACC5059,C1041,Savings,2016-09-09,Delhi - North,
+ACC5418,C1291,Current,2020-05-12,Mumbai - South,
+ACC5305,C1208,Savings,2017-09-29,chennai - central,
+ACC5060,C1042,Savings,2022-01-24,Chennai - North,
+ACC5403,C1280,Current,08-Jan-2017,Chennai - South,
+ACC5040,C1028,Savings,2024-05-30,Delhi - Central,
+ACC5183,C1128,Savings,2015-03-24,Bengaluru - North,
+ACC5186,C1130,Savings,17/09/2019,Hyderabad - South,
+ACC5026,C1020,savings,2022-06-26,Hyderabad - South,
+ACC5264,C1182,Savings,2023-04-20,Bengaluru - South,
+ACC5085,C1061,Savings,01/07/2016,Mumbai - Main,
+ACC5062,C1043,Savings,27/03/2023,Bengaluru - Central,
+ACC5052,C1036,SAVINGS,10-Apr-2020,Bengaluru - Main,
+ACC5224,C1154,Credit Card,2023-11-16,Chennai - Central,100000.0
+ACC5353,C1243,Savings,05-Jun-2018,Ahmedabad - North,
+ACC5280,C1192,Credit Card,2017-08-12,Coimbatore - Main,
+ACC5012,C1009,Savings,21/04/2020,Mumbai - Main,
+ACC5018,C1013,Credit Card,"Aug 06, 2018",Mumbai - Main,200000.0
+ACC5068,C1048,Savings,2019-09-22,Delhi - Main,
+ACC5239,C1162,Current,2021-01-25,Coimbatore - Central,
+ACC5425,C1296,Current,2017-09-30,Bengaluru - North,
+ACC5097,C1070,Savings,2023-02-23,Bengaluru - Main,
+ACC5069,C1049,Savings,2022-12-21,Kolkata - South,
+ACC5107,C1077,Savings,17/05/2018,Hyderabad - Central,
+ACC5005,C1004,Savings,15/02/2020,Chennai - Main,
+ACC5379,C1261,Savings,2016-05-26,Pune - Main,
+ACC5103,C1073,credit card,2019-06-07,Bengaluru - Main,300000.0
+ACC5192,C1132,Current,2019-12-16,Hyderabad - South,
+ACC5421,C1294,Savings,10/09/2017,Pune - Central,
+ACC5335,C1232,Savings,2015-06-22,Ahmedabad - Main,
+ACC5406,C1283,Savings,12/01/2019,Chennai - Central,
+ACC5371,C1256,savings,2023-07-25,Bengaluru - South,
+ACC5347,C1239,Credit Card,2022-09-08,Bengaluru - Central,50000.0
+ACC5422,C1295,savings,"Dec 10, 2020",Mumbai - Main,
+ACC5135,C1096,SAVINGS,2019-05-04,Coimbatore - Central,
+ACC5094,C1068,Credit Card,20-May-2022,Hyderabad - Main,300000.0
+ACC5160,C1111,Savings,2015-04-26,Kolkata - Central,
+ACC5263,C1181,Savings,2015-08-21,Bengaluru - Central,
+ACC5242,C1164,Savings,2024-04-15,Madurai - Main,
+ACC5251,C1172,Savings,2016-10-23,Coimbatore - North,
+ACC5038,C1026,Savings,2016-02-08,Coimbatore - Central,
+ACC5120,C1085,Savings,2022-03-25,Kolkata - Main,
+ACC5125,C1088,Savings,2022-07-06,Madurai - North,
+ACC5164,C1113,Current,2021-03-19,Ahmedabad - Main,
+ACC5321,C1221,Savings,09/05/2022,Delhi - Main,
+ACC5200,C1138,Credit Card,"Jul 16, 2020",Mumbai - South,200000.0
+ACC5112,C1080,Credit Card,2016-11-05,Delhi - Main,50000.0
+ACC5319,C1219,CC,30/10/2020,Hyderabad - North,50000.0
+ACC5167,C1116,savings,2021-02-11,Kochi - Main,
+ACC5306,C1209,Savings,2015-03-15,Chennai - South,
+ACC5003,C1003,Savings,2018-09-14,Delhi - South,
+ACC5096,C1069,Credit Card,2016-02-12,Hyderabad - North,50000.0
+ACC5132,C1094,savings,30-Apr-2016,Chennai - North,
+ACC5024,C1018,Savings,2021-04-23,Mumbai - Main,
+ACC5004,C1003,Credit Card,2018-08-28,Delhi - Main,100000.0
+ACC5373,C1257,Credit Card,06-Mar-2020,Kochi - Central,300000.0
+ACC5276,C1191,Savings,"Aug 22, 2024",Bengaluru - North,
+ACC5414,C1289,Savings,2017-02-08,chennai - south,
+ACC5029,C1021,Current,2017-05-05,Delhi - South,
+ACC5212,C1147,Savings,2015-10-29,Bengaluru - North,
+ACC5311,C1212,Credit Card,2019-05-18,Chennai - South,0.0
+ACC5033,C1023,Credit Card,2022-04-28,Hyderabad - North,300000.0
+ACC5134,C1095,Credit Card,2015-03-13,Mumbai - Central,50000.0
+ACC5279,C1192,Savings,2017-09-19,Coimbatore - South,
+ACC5307,C1210,Savings,19/05/2019,Chennai - Central,
+ACC5331,C1229,Credit Card,2018-08-09,Hyderabad - Main,100000.0
+ACC5143,C1101,Credit Card,04-Dec-2023,Delhi - North,200000.0
+ACC5410,C1286,Savings,2017-12-24,Pune - North,
+ACC5296,C1202,Current,"Jun 23, 2017",Delhi - Central,
+ACC5157,C1109,Savings,2021-05-04,Bengaluru - South,
+ACC5301,C1205,Savings,2018-07-12,Madurai - North,
+ACC5382,C1263,Savings,24/09/2016,Chennai - Central,
+ACC5302,C1205,Credit Card,2018-05-21,Madurai - Central,200000.0
+ACC5146,C1102,Current,2017-06-05,Delhi - South,
+ACC5299,C1204,Savings,2017-11-03,Delhi - Central,
+ACC5369,C1254,Curent,2019-09-19,Delhi - North,
+ACC5086,C1062,Savings,"Sep 27, 2015",Mumbai - Central,
+ACC5155,C1107,Credit Card,26/09/2018,Kolkata - Central,300000.0
+ACC5175,C1122,Savings,2022-11-03,Mumbai - Central,
+ACC5298,C1203,Current,16/07/2024,Delhi - Central,
+ACC5117,C1083,Current,2018-06-18,Bengaluru - South,
+ACC5182,c1127,Savings,2022-01-02,Bengaluru - North,
+ACC5080,C1057,Savings,2022-01-31,Pune - Main,
+ACC5198,C1137,Current,31/07/2022,Bengaluru - South,
+ACC5075,C1053,Savings,2017-06-12,Kochi - Main,
+ACC5041,C1029,Savings,2022-12-07,Ahmedabad - South,
+ACC5377,C1259,Credit Card,2022-04-30,Kolkata - South,300000.0
+ACC5392,C1272,Savings,2022-04-24,Kolkata - South,
+ACC5311,C1212,Credit Card,2019-05-18,Chennai - South,0.0
+ACC5163,C1113,Credit Card,2021-04-17,Ahmedabad - Central,300000.0
+ACC5419,C1292,Savings,2023-01-14,Pune - Main,
+ACC5129,C1092,Savings,15-Oct-2017,Ahmedabad - Central,
+ACC5349,C1240,Credit Card,2015-12-07,Ahmedabad - Main,100000.0
+ACC5021,C1016,Savings,2017-01-19,Mumbai - South ,
+ACC5314,C1215,Savings,2022-10-09,Madurai - North,
+ACC5002,C1002,Savings,2023-01-11,Bengaluru - Main,
+ACC5334,C1231,Savings,2023-10-28, Madurai - Central,
+ACC5286,C1196,Current,2016-05-23,Delhi - South,
+ACC5316,C1217,Savings,2021-01-18,Madurai - Central,
+ACC5098,C1070,Credit Card,2023-01-07,Bengaluru - South,50000.0
+ACC5270,C1186,Savings,2016-12-13,Delhi - South,
+ACC5426,C1297,Savings,2016-03-26,Delhi - North,
+ACC5253,C1173,Savings,15-Mar-2017,Hyderabad - Main,
+ACC5070,C1050,SAVINGS,2016-08-10,Pune - South,
+ACC5088,C1064,Savings,2019-10-11,Hyderabad - Main,
+ACC5115,C1082,Savings,02/09/2019,Hyderabad - Main,
+ACC5312,C1213,Savings,2021-11-23,Mumbai - Main,
+ACC5372,C1257,Savings,25/04/2020,Kochi - Central,
+ACC5320,C1220,Savings,22/09/2018,Delhi - South,
+ACC5197,C1137,Savings,2022-08-29,Bengaluru - South,
+ACC5168,C1117,Savings,20/05/2019,Coimbatore - Central,
+ACC5105,C1075,Savings,2017-10-26,COIMBATORE - NORTH,
+ACC5405,C1282,Savings,19-Nov-2016,Kolkata - South,
+ACC5430,C1299,Credit Card,05-Oct-2017,Coimbatore - Main,50000.0
+ACC5078,C1055,Savings,14-Oct-2018,Mumbai - Main,
+ACC5193,C1133,Savings,2019-12-20,Kochi - North ,
+ACC5055,C1038,Savings,2023-10-28,Bengaluru - Main,
+ACC5020,C1015,Savings,2018-10-25,Kochi - South,
+ACC5411,C1287,Savings,2017-01-08,Bengaluru - Main,
+ACC5179,C1125,Savings,06/08/2022,Kolkata - South,
+ACC5258,C1177,savings,2021-04-15,Delhi - North,
+ACC5256,C1175,Credit Card,2022-05-10,Delhi - Main,100000.0
+ACC5216,C1149,Current,2022-08-21,Delhi - North,
+ACC5359,C1248,Savings,05-Dec-2016,Mumbai - Main,
+ACC5194,C1134,Savings,2019-01-07,Chennai - South,
+ACC5131,C1093,SAVINGS,2018-08-19,Chennai - Main,
+ACC5397,C1276,Savings,2016-02-07,Bengaluru - Central,
+ACC5101,C1072,Credit Card,2019-07-22,Hyderabad - Main,50000.0
+ACC5172,C1120,Savings,30/12/2023,Delhi - Central,
+ACC5376,C1259,Savings,2022-04-26,Kolkata - Main,
+ACC5328,C1227,Savings,2020-09-20,Chennai - South,
+ACC5395,C1274,Savings,2022-06-15,Hyderabad - North,
+ACC5144,C1102,Savings,"Jun 07, 2017",Delhi - North,
+ACC5318,C1219,Savings,2020-09-30,Hyderabad - Central,
+ACC5292,C1201,Savings,2019-03-26,Hyderabad - South,
+ACC5203,C1140,Credit Card,2023-03-27,Pune - North,100000.0
+ACC5201,C1139,Savings,12/06/2021,Delhi - Central,
+ACC5149,C1104,Savings,2022-08-23,Kochi - North,
+ACC5269,C1185,Current,2021-08-08,Ahmedabad - Central,
+ACC5122,C1086,Savings,2017-06-20,Hyderabad - North,
+ACC5137,C1098,Savings,2018-02-10,Pune - South,
+ACC5429,C1299,Savings,"Nov 06, 2017",Coimbatore - South,
+ACC5385,C1265,Savings,2021-07-27,Bengaluru - South,
+ACC5058,C1040,Savings,2022-07-14,Hyderabad - North,
+ACC5195,C1135,Savings,20/06/2019,Delhi - Central,
+ACC5271,C1186,Credit Card,2016-12-09,Delhi - Main,50000.0
+ACC5340,C1235,Credit Card,28/11/2023,Delhi - Main,50000.0
+ACC5064,C1044,Credit Card,2016-11-04,Mumbai - South,50000.0
+ACC5071,C1051,Savings,23-Nov-2018,Kolkata - Main,
+ACC5317,c1218,Savings,2022-09-02,Delhi - Main,
+ACC5272,C1187,Savings,2022-04-22,Madurai - South,
+ACC5355,c1244,Current,30-Jun-2022,Delhi - North,
+ACC5267,C1184,Credit Card,2021-10-28,Kolkata - South,100000.0
+ACC5374,C1258,Savings,2021-05-16,Bengaluru - Main,
+ACC5329,C1228,Savings,03/10/2020,Chennai - Central,
+ACC5170,C1119,Savings,2023-03-27,Mumbai - North,
+ACC5037,C1025,Credit Card,2020-08-27,Mumbai - Main,200000.0
+ACC5244,C1166,Saving,22-Jun-2018,Madurai - Central,
+ACC5083,C1059,Savings,2023-04-26,Chennai - Central,
+ACC5261,C1179,Savings,2022-08-24,Hyderabad - Main,
+ACC5398,C1276,Credit Card,2016-01-30,Bengaluru - South,300000.0
+ACC5023,C1017,Savings,2018-10-22,Delhi - Central,
+ACC5309,C1211,Credit Card,2024-09-19,Hyderabad - Main,300000.0
+ACC5409,C1285,Savings,2017-06-07,Chennai - South,
+ACC5240,C1163,Savings,"Mar 27, 2021",Kochi - North,
+ACC5221,C1152,Savings,2023-08-17,Delhi - Central,
+ACC5014,C1010,Credit Card,15-Mar-2017,Chennai - North,300000.0
+ACC5336,C1233,Savings,31/01/2017,KOLKATA - CENTRAL,
+ACC5161,C1112,Savings,2023-07-29,Kolkata - Central,
+ACC5073,C1052,Credit Card,2017-09-30,Bengaluru - South,200000.0
+ACC5178,C1124,Current,2019-07-28,Bengaluru - North,
+ACC5277,C1191,Credit Card,2024-09-30,Bengaluru - South,
+ACC5036,C1025,Savings,2020-07-29,Mumbai - Central,
+ACC5327,C1226,Savings,2015-03-01,Hyderabad - South,
+ACC5208,C1144,Savings,2017-04-03,MUMBAI - SOUTH,
+ACC5226,C1155,Savings,2016-08-26,Madurai - South,
+ACC5121,C1085,Current,2022-03-17,Kolkata - Main,
+ACC5217,C1150,Savings,2024-10-23,CHENNAI - SOUTH,
+ACC5030,C1022,Savings,2023-11-12,Hyderabad - South,
+ACC5189,C1131,Credit Card,08-Oct-2019,Chennai - Central,100000.0
+ACC5402,C1280,Savings,2017-02-04,Chennai - Main,
+ACC5326,C1225,Savings,2021-09-01,Bengaluru - Main,
+ACC5181,C1126,Savings,29-Nov-2015,Coimbatore - South,
+ACC5234,C1160,Savings,2017-10-12,Bengaluru - North,
+ACC5350,C1241,Savings,2016-06-21,Hyderabad - Central,
+ACC5166,C1115,Savings,2019-09-20,Mumbai - South,
+ACC5127,C1090,Savings,2018-02-23,Chennai - Main,
+ACC5416,C1290,Savings,2024-01-26,Mumbai - Main,
+ACC5265,C1183,Savings,"Jan 16, 2015",Chennai - South,
+ACC5065,C1045,SAVINGS,2022-05-24,Mumbai - South,
+ACC5367,C1254,Savings,2019-10-16,delhi - north,
+ACC5215,C1149,Savings,2022-08-20,Delhi - North,
+ACC5381,C1262,Savings,2024-10-26,HYDERABAD - SOUTH,
+ACC5339,C1235,Savings,"Dec 02, 2023",Delhi - North,
+ACC5366,C1253,Savings,2019-05-02,Mumbai - Central,
+ACC5176,C1123,Savings,2018-07-24,Madurai - North,
+ACC5173,C1120,Credit Card,2024-01-07,Delhi - Central,100000.0
+ACC5333,C1230,Savings,05/12/2024,Delhi - Main,
+ACC5033,C1023,Credit Card,2022-04-28,Hyderabad - North,300000.0
+ACC5032,C1023,Savings,2022-04-28,Hyderabad - Main,
+ACC5233,C1159,Current,2022-06-18,Delhi - North,
+ACC5236,C1161,Savings,09-Feb-2023,Kolkata - South,
+ACC5188,C1131,Savings,2019-09-05,Chennai - Central,
+ACC5174,C1121,Savings,2020-01-06,Kolkata - North,
+ACC5420,C1293,Savings,27/04/2021,Pune - Main,
+ACC5304,C1207,Savings,2020-07-22,Ahmedabad - Main,
+ACC5039,C1027,Savings,2016-01-12,Hyderabad - Main,
+ACC5266,C1184,Savings,2021-10-04,Kolkata - Main,
+ACC5390,C1270,Savings,2017-07-14,Chennai  -  North,
+ACC5015,C1011,Savings,2020-12-10,Kolkata - South,
+ACC5095,C1069,Savings,2016-02-14,Hyderabad - South,
+ACC5017,C1013,Savings,2018-07-11,Mumbai - Central,
+ACC5342,C1237,Savings,07-Apr-2022,Bengaluru - South,
+ACC5218,C1150,Credit Card,2024-10-13,Chennai - Main,200000.0
+ACC5290,C1200,savings,2023-01-06,Bengaluru - Main,
+ACC5079,C1056,Savings,2016-04-11,Delhi - South,
+ACC5092,C1067,Credit Card,10/11/2020,Coimbatore - South,100000.0
+ACC5184,C1129,Savings,22-Oct-2020,Hyderabad - Central,
+ACC5324,C1223,Current,2023-04-26,Mumbai - South,
+ACC5268,C1185,Savings,2021-10-03,Ahmedabad - Main,
+ACC5191,C1132,Credit Card,2019-11-23,Hyderabad - Central,300000.0
+ACC5424,C1296,Credit Card,2017-11-01,Bengaluru - South,50000.0
+ACC5110,C1079,Savings,2016-10-27,Coimbatore - North,
+ACC5365,C1252,Credit Card,2019-02-21,Chennai - Main,200000.0
+ACC5357,C1246,Savings,2018-08-27,Chennai - Central,
+ACC5136,C1097,Savings,2022-01-04,Bengaluru - North,
+ACC5246,C1168,Savings,2020-08-21,Mumbai - Central,
+ACC5370,C1255,Savings,2022-05-18,Pune - Central,
+ACC5275,C1190,Saving,2023-02-16,Mumbai - North,
+ACC5148,C1103,Credit Card,"May 18, 2020",Coimbatore - Central,100000.0
+ACC5106,C1076,Savings,01-Jun-2017,Mumbai - North,
+ACC5295,C1202,Credit card,12/05/2017,Delhi - South,50000.0
+ACC5325,C1224,Savings,2017-03-07,Kochi - Central,
+ACC5259,C1178,Savings,04/05/2024,Coimbatore - South,
+ACC5288,C1198,Savings,2021-09-20,Coimbatore - North,
+ACC5417,C1291,Savings,2020-04-28,Mumbai - South,
+ACC5180,C1125,Credit Card,2022-08-18,Kolkata - Main,200000.0
+ACC5362,C1251,Savings,17/09/2020,Mumbai - Main,
+ACC5165,C1114,Savings,2024-11-01,Hyderabad - North,
+ACC5111,C1080,Savings,2016-11-01,Delhi  -  North,
+ACC5389,C1269,Savings,2015-10-19,Mumbai  -  South,
+ACC5257,C1176,Savings,2015-08-14,Delhi - North,
+ACC5315,C1216,Savings,2022-08-29,Chennai - South,
+ACC5006,C1005,Savings,2015-06-26,Pune - North,
+ACC5145,C1102,Credit Card,2017-05-15,Delhi - Central,100000.0
+ACC5104,C1074,Savings,2023-02-07,Pune - Main,
+ACC5211,c1146,Credit Card,2022-12-05, Coimbatore - Central,300000.0
+ACC5386,C1266,Savings,2018-12-24,Delhi - Central,
+ACC5042,C1029,Current,2022-12-02,Ahmedabad - South,
+ACC5363,C1251,Credit Card,2020-08-03,Mumbai - Central,100000.0
+ACC5138,C1099,Savings,09-Jul-2023,Delhi - South,
+ACC5378,C1260,Saving,05/12/2021,Chennai - Main,
+ACC5255,C1175,Savings,2022-06-17,Delhi - South,
+ACC5147,C1103,Savings,2020-04-27,Coimbatore - Central,
+ACC5126,C1089,Savings,26/09/2016,Chennai - North,
+ACC5087,C1063,Savings,2019-04-27,Madurai - South,
+ACC5031,C1022,Credit Card,2023-12-10, Hyderabad - Main,100000.0
+ACC5066,C1046,Savings,2018-07-12,Bengaluru - North,
+ACC5204,C1141,Savings,14/11/2024,Bengaluru - Central,
+ACC5206,C1142,SAVINGS,2016-02-11,Madurai - South,
+ACC5045,C1031,Credit Card,"Nov 03, 2017",Delhi - Main,50000.0
+ACC5028,C1021,Savings,13/04/2017,Delhi - Central,
+ACC5081,C1058,SAVINGS,09/07/2020,Delhi - Central,
+ACC5114,C1081,Credit Card,2017-05-04,Hyderabad - Main,50000.0
+ACC5400,C1278,Savings,2019-09-01,Bengaluru - North,
+ACC5205,C1141,Credit Card,2024-09-26,Bengaluru - South,50000.0
+ACC5008,C1006,Savings,"Apr 06, 2022",Delhi  -  South,
+ACC5209,C1145,savings,2016-12-28,Kolkata - Central,
+ACC5159,C1110,Savings,2021-05-09,Chennai - Main,
+ACC5113,C1081,Savings,2017-04-12,Hyderabad - Main,
+ACC5412,C1288,SAVINGS,2022-12-03,Chennai - Central,
+ACC5232,C1159,Credit Card,2022-06-22,Delhi - Main,100000.0
+ACC5229,C1157,Savings,2016-04-26,Chennai - Central,
+ACC5009,C1006,Current,08/04/2022,Delhi - South,
+ACC5074,C1052,Current,2017-10-23,Bengaluru - North,
+ACC5401,C1279,Savings,27/04/2016,Kolkata - Central,
+ACC5119,C1084,credit card,2018-11-20,Pune - South,50000.0
+ACC5190,C1132,Savings,2019-11-30,Hyderabad - Main,
+ACC5207,C1143,Savings,23/01/2022,Delhi - Central,
+ACC5356,C1245,Savings,2016-08-03,Kochi - Main,
